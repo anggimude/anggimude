@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Hyuk, and I am a fourth year student at the University of Toronto studying Mathematical applications in economics and finance. 
+
+
 <!--
 **anggimude/anggimude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
