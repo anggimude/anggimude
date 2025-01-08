@@ -2,7 +2,7 @@
 
 My name is Hyuk, and I am a fourth year student at the University of Toronto studying Mathematical applications in economics and finance. I am interested in data science and maths. I am skilled in using R and currently learning Python. 
 
-Two projects that may catch your attention are pinned. `Health` is a paper on the correlation between global suicide rates and country income, age, gender, continent and `OCED` is a paper that analyzes the correlation between minimum hourly wage and labour productivity. 
+Two projects that may catch your attention are pinned. `Health` is a paper on the correlation between global suicide rates and country income, age, gender, continent and `OCED` is a paper that analyzes the correlation between minimum hourly wage and labour productivity. Please find the analysis paper(output) in the paper folder and the file with a .pdf.
 
 
 <!--
